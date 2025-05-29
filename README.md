@@ -7,27 +7,19 @@ I developed WorkFlowISIMM, a full-stack web application designed to simplify and
 
 ## 𝒦𝑒𝓎 𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝓈:
 
-Secure authentication using JWT
-
-Role-based access control with dynamic routing
-
-Personal dashboards with real-time tracking
-
-Automated email notifications
-
-On-demand PDF generation
-
-Internal task assignment and monitoring
+- Secure authentication using JWT
+- Role-based access control with dynamic routing
+- Personal dashboards with real-time tracking
+- Automated email notifications
+- On-demand PDF generation
+- Internal task assignment and monitoring
 
 ## 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 𝒰𝓈𝑒𝒹:
 
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Tailwind CSS, React Router
-
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Spring Boot, Spring Security, JWT, REST API
-
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MySQL
-
-𝗧𝗼𝗼𝗹𝘀: Git, GitHub, Postman
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Tailwind CSS, React Router
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Spring Boot, Spring Security, JWT, REST API
+- 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MySQL
+- 𝗧𝗼𝗼𝗹𝘀: Git, GitHub, Postman
 
 
 This project was a valuable opportunity to build a robust full-stack architecture, gain experience with secure authentication, frontend-backend integration, and create a real-world solution that meets concrete administrative needs.
